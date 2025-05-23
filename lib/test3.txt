@@ -1,0 +1,22 @@
+we app with topbar and it does change the color depend on the selected gander by switch and then bottom to select the age calnder  
+and slider will do something select height from 1 to 2 miter 
+and then text feild for the weight then 
+to calculate the calorise and bmi and tdee base on selected 
+use sync on the code or the delay one depend idk yet 
+
+
+on the create topbar with the have title "calories calculator " below it it a colum that have row with text "fill your information" below it padding that have childrens first one will be row this row contain male icon on right and female on the right and between them a switch to select a gander base on the switch side and also the topbar change the color base on gander selected which blue is male and red is female and below it on the same padding a textbox to enter the age by using calender " _selectDate(context) " and below it slider widget to select the height and the slider have limit from 1 to 2 miter , below it text feild to enter the weight by kg as default and then a text " how many time you workout ? " belows it radio bottuns which are three "rare , medium, regular " and close the padding and add drop selet that have two option "TDEE" or "BMI" below it a text " calculate your TDEE" and "TDEE" change depend on what he select if BMI so write bmi and enter icon to calculate either of them base on BMI (Body Mass Index) Formula
+BMI
+=
+weight (kg)
+height (m)
+2
+BMI= 
+height (m) 
+2
+ 
+weight (kg)
+​
+and TDEE : TDEE=BMR×Activity Factor 
+elevated bottun 
+and the keyboard is limit to numbers only 
